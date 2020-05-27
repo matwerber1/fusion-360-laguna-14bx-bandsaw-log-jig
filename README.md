@@ -2,15 +2,24 @@
 
 AutoDesk Fusion 360 plans for a bandsaw sled/jig to cut round logs.
 
+The dimensions of the bandsaw table in this project were based on measurements taken from my Laguna 14BX bandsaw. In inches, they are: 
+
+* Table width = 21.25"
+* Table depth = 16"
+* Table Thickness = 1.4375"
+* Miter width = 0.75"
+* Right miter edge from right table edge = 3.125"
+* Left miter edge to right edge of bandsaw blade = 3.5"
+* Front of table to (approx) center of bandsaw blade = 8"
+* Resaw capacity = 12"
+
 # Background
 
 Try cutting a round log on a bandsaw (or any other power tool) and you're taking a risk that the blade bites and twists/spins the wood. This can damage the workpiece, tool, or - most importantly - you!
 
 This is a jig in which you would secure a round log so that it cannot rotate while you make your first cut. Once you have a first cut, you can remove the log from the jig and use a regular bandsaw fence, or you can continue to make additional passes with the jig. 
 
-The project was inspired by several designs I found while googling, such as: 
-
-http://woodarchivist.com/1581-band-saw-log-cutting-jig/
+There are quite a few similar project ideas on blogs and YouTube, but this design is mostly heavily influenced by the example shown at https://smallboatsmonthly.com/article/log-milling-sled/
 
 # Notes
 
