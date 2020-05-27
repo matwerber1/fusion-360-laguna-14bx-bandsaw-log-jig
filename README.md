@@ -19,7 +19,7 @@ Try cutting a round log on a bandsaw (or any other power tool) and you're taking
 
 This is a jig in which you would secure a round log so that it cannot rotate while you make your first cut. Once you have a first cut, you can remove the log from the jig and use a regular bandsaw fence, or you can continue to make additional passes with the jig. 
 
-There are quite a few similar project ideas on blogs and YouTube, but this design is mostly heavily influenced by the example shown at https://smallboatsmonthly.com/article/log-milling-sled/
+There are quite a few similar project ideas on blogs and YouTube, but this design is most heavily influenced by the example shown at https://smallboatsmonthly.com/article/log-milling-sled/
 
 # Notes
 
