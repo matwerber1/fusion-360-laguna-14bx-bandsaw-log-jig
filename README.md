@@ -8,6 +8,17 @@ Try cutting a round log on a bandsaw (or any other power tool) and you're taking
 
 This is a jig in which you would secure a round log so that it cannot rotate while you make your first cut. Once you have a first cut, you can remove the log from the jig and use a regular bandsaw fence, or you can continue to make additional passes with the jig. 
 
+The project was inspired by several designs I found while googling, such as: 
+
+http://woodarchivist.com/1581-band-saw-log-cutting-jig/
+
 # Notes
 
 This is my first project with AutoDesk Fusion 360. This isn't a great plan (and currently still a work in process).
+
+# Images
+
+![alt text](jig.png)
+
+
+![alt text](jig2.png)
