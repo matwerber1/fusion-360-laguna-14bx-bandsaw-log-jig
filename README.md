@@ -25,6 +25,10 @@ There are quite a few similar project ideas on blogs and YouTube, but this desig
 
 This is my first project with AutoDesk Fusion 360. This isn't a great plan (and currently still a work in process).
 
+## Shoutout
+
+My *very* first exposure to anything like this was through the really cool Udemy course, [**Fusion 360 for Woodworkers**](https://www.udemy.com/share/101YGAAEITdlpRTHQF/). At the time I built this project, I had only made it about ~1/2 through the course and was so excited I had to pause it and go build my own project. Highly recommend the course for any woodworker that wants to learn to use 3D modelling software. Note - I have no affiliation to the course author and do not receive any form of compensation for this recommendation.
+
 # Design
 
 In the photos below, the metal rod represents a 3/4 steel pipe which would have a pipe clamp installed. The four holes exist so you can reposition the pipe as log dimensions change. 
